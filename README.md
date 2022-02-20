@@ -1,3 +1,11 @@
+# Screenshot App
+
+![app's screenshot](/assets/capture.png)
+
+My progress learn of typescript-react with redux in Mr. Stephen Grider's course.
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
